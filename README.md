@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ThatsInsane
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on (null)
-- 📫 How to reach me (null)
-
-<!---
-ThatsInsane/ThatsInsane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hey! Welcome to my Github, i'm just here to learn how to code and be useful. Come with me on my trip where im going to pull my hair out trying to learn how.
+- Goals (✔️)
+- Looking to proficent C, Python, and C++ before 2025.
+- Completed? (❌)
+- Make something which would make peoples life more convient or help before 2026.
+- Completed? (❌)
